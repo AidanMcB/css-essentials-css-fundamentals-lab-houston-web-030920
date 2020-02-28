@@ -25,4 +25,5 @@ figcaption {
 #details > div {
   background: lightblue;
   text-align: center;
+  width: 25%;
 }
