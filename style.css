@@ -22,7 +22,7 @@ figcaption {
   float: left;
  
 }
-#details > div {
+div {
   background: lightblue;
   text-align: center;
   width: 25%;
